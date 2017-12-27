@@ -8,4 +8,7 @@ public class MyUtils {
     public static String get(){
         return "abc";
     }
+    public static String getA(){
+        return "A";
+    }
 }
